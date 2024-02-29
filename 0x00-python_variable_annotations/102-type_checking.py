@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
+
 """ doc """
+
 from typing import Tuple, List
 
 
