@@ -2,7 +2,7 @@
 
 """Sum a list of floats and integers."""
 
-from typing import List, Union
+from typing import List
 
 
 def sum_mixed_list(mxd_lst: List[int, float]) -> float:
